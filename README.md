@@ -4,25 +4,11 @@
 
 ### As principais diferenças entra a utilização de Bag of Words a utilização de Term Frequency–Inverse Document frequency (TFIDF) para classificação de textos aplicados em uma standard neural network (SNN)
 
----
-
-Antes de começar, você precisará utilizar o [colab](https://colab.research.google.com) para executar passo a passo as células dos notebooks.
-
-## Passo a Passo Para a Primeira Inicialização do Action Stalker
-
----
-
-### 🎲 Clonando o Repositório e Instalando os Requerimentos (passo 1)
-```bash
-# Clone este repositório
-$ git clone <https://https://github.com/devthumos/ActionStalker>
-
-# Acesse a pasta do projeto no terminal/cmd e instale os requisitos
-$ pip install pymysql
-$ pip install beautifulsoup4
-$ pip install requests
-$ pip install webdriver-manager
-$ pip install ttkbootstrap
+Universidade de Brasília
+Departamento de Ciência da Computação
+CIC0269 - Processamento de Linguagem Natural - 2022/1
+Aluno: Luís Fernando Ferreira Pereira Lopes
+Professor: Vinícius R. P. Borges
 
 # Se tudo ocorreu bem, vamos para o próximo passo
 
